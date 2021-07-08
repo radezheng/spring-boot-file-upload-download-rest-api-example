@@ -1,5 +1,14 @@
 ## Spring Boot File Upload / Download Rest API Example
 
+---
+### Modified for listing files on path by Rade:
+
+Access: /list?path=/persistent/sap/
+e.g. https://spcdemo.test.azuremicroservices.io/sapdemo/default/list?path=/persistent/sap/
+
+![File Names](./images/listfiles.png)
+
+---
 **Tutorial**: [Uploading an Downloading files with Spring Boot](https://www.callicoder.com/spring-boot-file-upload-download-rest-api-example/)
 
 ## Steps to Setup
